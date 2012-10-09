@@ -1,0 +1,10 @@
+*vimgirl.txt*  For Vim version 7.0 or later.                         *vimgirl*
+
+Vimgirl - a dead simple filetype for nested lists~
+
+In files that have the "vimgirl" 'filetype' set, you can fold and unfold
+subtrees with <Space>. Folded trees are blue. That's all.
+
+You can also use all available commands related to folding, see |fold.txt|.
+
+ vim:tw=78:et:ft=help:norl:
